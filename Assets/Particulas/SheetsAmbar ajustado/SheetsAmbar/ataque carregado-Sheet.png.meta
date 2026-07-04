@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 9b7473ce4c2478745b2d4d382ef57e4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2929846374941015520
+    second: ataque carregado-Sheet_0
+  - first:
+      213: 5410200968841474828
+    second: ataque carregado-Sheet_1
+  - first:
+      213: -1561542348006668511
+    second: ataque carregado-Sheet_2
+  - first:
+      213: -6518701261951611948
+    second: ataque carregado-Sheet_3
+  - first:
+      213: 7603126063057458878
+    second: ataque carregado-Sheet_4
+  - first:
+      213: 7848737658805572197
+    second: ataque carregado-Sheet_5
+  - first:
+      213: 6282649771341789130
+    second: ataque carregado-Sheet_6
+  - first:
+      213: 8376104108547668395
+    second: ataque carregado-Sheet_7
+  - first:
+      213: -7907132913198152148
+    second: ataque carregado-Sheet_8
+  - first:
+      213: -8903577123022740082
+    second: ataque carregado-Sheet_9
+  - first:
+      213: 7457855889366223419
+    second: ataque carregado-Sheet_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ataque carregado-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 18
+        height: 30
+      alignment: 9
+      pivot: {x: 0.49421656, y: 0.0052534235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022cc27be381757d0800000000000000
+      internalID: -2929846374941015520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque carregado-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 18
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5077621, y: -0.003810781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03354fdd15e41b40800000000000000
+      internalID: 5410200968841474828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque carregado-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 16
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5165782, y: -0.00038402388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12745550289445ae0800000000000000
+      internalID: -1561542348006668511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque carregado-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 16
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5097017, y: 0.008548205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbcb746dbbe885a0800000000000000
+      internalID: -6518701261951611948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque carregado-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 16
+        height: 26
+      alignment: 9
+      pivot: {x: 0.49637604, y: 0.0027965899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6dd0b0fdab38960800000000000000
+      internalID: 7603126063057458878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque carregado-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 19
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4999992, y: 0.022863295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5625658f0515cec60800000000000000
+      internalID: 7848737658805572197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque carregado-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 13
+        height: 26
+      alignment: 9
+      pivot: {x: 0.45908883, y: 0.013167596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7340d1ea4703750800000000000000
+      internalID: 6282649771341789130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque carregado-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 23
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.0049855057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba97ca7ee46ed3470800000000000000
+      internalID: 8376104108547668395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque carregado-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 13
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5076904, y: 0.0038738153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26460d5288344290800000000000000
+      internalID: -7907132913198152148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque carregado-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 13
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5038429, y: -0.0038179453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e856fef97c3207480800000000000000
+      internalID: -8903577123022740082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ataque carregado-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 16
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4999981, y: -0.0018236896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a8abffa60af7760800000000000000
+      internalID: 7457855889366223419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3d764bd96cad6a54eaa327eed9068c44
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ataque carregado-Sheet_0: -2929846374941015520
+      ataque carregado-Sheet_1: 5410200968841474828
+      ataque carregado-Sheet_10: 7457855889366223419
+      ataque carregado-Sheet_2: -1561542348006668511
+      ataque carregado-Sheet_3: -6518701261951611948
+      ataque carregado-Sheet_4: 7603126063057458878
+      ataque carregado-Sheet_5: 7848737658805572197
+      ataque carregado-Sheet_6: 6282649771341789130
+      ataque carregado-Sheet_7: 8376104108547668395
+      ataque carregado-Sheet_8: -7907132913198152148
+      ataque carregado-Sheet_9: -8903577123022740082
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
